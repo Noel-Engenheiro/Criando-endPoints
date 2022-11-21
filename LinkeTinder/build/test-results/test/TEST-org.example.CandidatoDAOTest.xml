@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CandidatoDAOTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-14T19:24:24" hostname="gustavo" time="2.252">
+  <properties/>
+  <testcase name="atualizar_Dados_Do_Candidato()" classname="org.example.CandidatoDAOTest" time="1.576"/>
+  <testcase name="listar_Candidato()" classname="org.example.CandidatoDAOTest" time="0.256"/>
+  <testcase name="deletar_Candidato()" classname="org.example.CandidatoDAOTest" time="0.158"/>
+  <testcase name="inserir_Candidato()" classname="org.example.CandidatoDAOTest" time="0.249"/>
+  <system-out><![CDATA[O candidato 9 foi atualizado com sucesso
+Listando Candidatos 
+Código do candidato : 9
+Nome do candidato : k
+Sobrenome do candidato : f
+Data de nascimento do candidato : j
+E-mail do candidato : j
+CPF do candidato : 3
+País do candidato : j
+CEP do candidato : 3
+Descrição pessoal do candidato : j
+Senha do candidato : 3
+------------------------
+Código do candidato : 9
+Nome do candidato : k
+Sobrenome do candidato : f
+Data de nascimento do candidato : j
+E-mail do candidato : j
+CPF do candidato : 3
+País do candidato : j
+CEP do candidato : 3
+Descrição pessoal do candidato : j
+Senha do candidato : 3
+------------------------
+Não existe o candidato informado
+O candidato k f foi inserido com sucesso.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
